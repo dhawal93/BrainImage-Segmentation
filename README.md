@@ -46,7 +46,7 @@ Use the trained model to do segmentation on test images, the result is statisfac
 
 
 
-![img/29_predict.png]
+!(img/29_predict.png)
 
 
 
