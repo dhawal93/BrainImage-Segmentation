@@ -44,7 +44,7 @@ Loss function for the training is basically just a binary crossentropy.
 
 Use the trained model to do segmentation on test images, the result is statisfactory.
 
-![img/29.png](img/29.png)
+
 
 ![img/29_predict.png](img/29_predict.png)
 
