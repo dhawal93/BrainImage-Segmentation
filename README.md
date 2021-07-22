@@ -42,7 +42,7 @@ Loss function for the training is basically just a binary crossentropy.
 
 ### Results
 
-Use the trained model to do segmentation on test images, the result is statisfactory.
+Use the trained model to do segmentation on test images, the result is satisfactory.
 
 
 
